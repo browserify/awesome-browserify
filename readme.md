@@ -2,7 +2,7 @@
 
 # Awesome Browserify [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> [Browserify](https://github.com/substack/node-browserify) lets you require('modules') in the browser by bundling up all of your dependencies.
+> :crystal_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) resources, libraries, and tools.
 
 Work in progress! Please help improve this list by [contributing](contributing.md)!
 
