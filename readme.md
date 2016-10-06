@@ -52,6 +52,10 @@ This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-b
 - [beefy](https://github.com/chrisdickinson/beefy) - local development server that aims to make using browserify fast and fun
 - [wzrd](https://github.com/maxogden/wzrd) - super minimal browserify development server
 
+### Plugins
+
+- [browserify-hmr](https://github.com/AgentME/browserify-hmr) - Hot Module Replacement plugin for Browserify
+
 ### Watchers
 
 - [watchify](https://github.com/substack/watchify) - watch mode for browserify builds
