@@ -28,6 +28,16 @@ Work in progress! Please help improve this list by [contributing](contributing.m
 
 ## Tutorials
 
+- [Hello World with Browserify](http://browserify.org/#middle-section)
+- [Introduction to Browserify](http://superbigtree.tumblr.com/post/54873453939/introduction-to-browserify)
+- [Using npm on the client side](http://dontkry.com/posts/code/using-npm-on-the-client-side.html)
+
+This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-browserify/edit/master/readme.md).
+
+## Articles
+
+- [How Browserify Works](http://benclinkinbeard.com/posts/how-browserify-works/)
+
 This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-browserify/edit/master/readme.md).
 
 ## Demos
@@ -67,6 +77,7 @@ This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-b
 
 ## Production Tools
 
+- [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
 - [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams.
 
 ## Contributing
