@@ -26,8 +26,6 @@ Work in progress! Please help improve this list by [contributing](contributing.m
 - [Repo](https://github.com/substack/node-browserify)
 - [Website](http://browserify.org/)
 
-This page lists various tools that either use browserify or add features to it.
-
 ## Tutorials
 
 This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-browserify/edit/master/readme.md).
