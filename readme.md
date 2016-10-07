@@ -90,6 +90,8 @@ Contributions welcome! Please read the [contributing guidelines](contributing.md
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+The [browserify logo](browserify.png) is by [substack](https://github.com/substack).
 
-To the extent possible under law, [Nate Goldman](https://github.com/ungoldman) has waived all copyright and related or neighboring rights to this work.
+All other content is released to the public domain under [CC0-1.0](https://spdx.org/licenses/CC0-1.0.html).
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
