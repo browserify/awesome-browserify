@@ -8,6 +8,7 @@ Work in progress! Please help improve this list by [contributing](contributing.m
 
 ### Contents
 
+- [About](#about)
 - [Official Resources](#official-resources)
 - [Tutorials](#tutorials)
 - [Demos](#demos)
@@ -19,6 +20,12 @@ Work in progress! Please help improve this list by [contributing](contributing.m
   - [Transforms](#transforms)
   - [Node in the Browser](#node-in-the-browser)
 - [Production Tools](#production-tools)
+
+## About
+
+Browserify lets you `require('modules')` in the browser by bundling up all of your dependencies.
+
+You can use a node-style `require()` to organize your browser code and load modules installed by npm. Browserify will recursively analyze all the `require()` calls in your app in order to build a bundle you can serve up to the browser in a single `<script>` tag.
 
 ## Official Resources
 
