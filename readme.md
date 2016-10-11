@@ -13,10 +13,11 @@ Work in progress! Please help improve this list by [contributing](contributing.m
 - [Demos](#demos)
 - [Development Tools](#development-tools)
   - [Servers](#servers)
+  - [Plugins](#plugins)
   - [Watchers](#watchers)
   - [CSS Bundlers](#css-bundlers)
   - [Transforms](#transforms)
-  - [Node in the Browser](#node-core-ports)
+  - [Node in the Browser](#node-in-the-browser)
 - [Production Tools](#production-tools)
 
 ## Official Resources
@@ -48,36 +49,36 @@ This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-b
 
 ### Servers
 
-- [budo](https://github.com/mattdesl/budo) - a dev server for rapid prototyping
-- [beefy](https://github.com/chrisdickinson/beefy) - local development server that aims to make using browserify fast and fun
-- [wzrd](https://github.com/maxogden/wzrd) - super minimal browserify development server
+- [budo](https://github.com/mattdesl/budo) - A dev server for rapid prototyping.
+- [beefy](https://github.com/chrisdickinson/beefy) - Local development server that aims to make using browserify fast and fun.
+- [wzrd](https://github.com/maxogden/wzrd) - Super minimal browserify development server.
 
 ### Plugins
 
-- [browserify-hmr](https://github.com/AgentME/browserify-hmr) - Hot Module Replacement plugin for Browserify
+- [browserify-hmr](https://github.com/AgentME/browserify-hmr) - Hot Module Replacement plugin for Browserify.
 
 ### Watchers
 
-- [watchify](https://github.com/substack/watchify) - watch mode for browserify builds
-- [persistify](https://github.com/royriojas/persistify) - a wrapper around `browserify` to make incremental builds
+- [watchify](https://github.com/substack/watchify) - Watch mode for browserify builds.
+- [persistify](https://github.com/royriojas/persistify) - A wrapper around `browserify` to make incremental builds.
 
 ### CSS bundlers
 
-- [sheetify](https://github.com/stackcss/sheetify) - modular CSS bundler for browserify
-- [parcelify](https://github.com/rotundasoftware/parcelify) - add css to your npm modules consumed with browserify
-- [css-modulesify](https://github.com/css-modules/css-modulesify) - a browserify plugin to load CSS Modules
+- [sheetify](https://github.com/stackcss/sheetify) - Modular CSS bundler for browserify.
+- [parcelify](https://github.com/rotundasoftware/parcelify) - Add css to your npm modules consumed with browserify.
+- [css-modulesify](https://github.com/css-modules/css-modulesify) - A browserify plugin to load CSS Modules.
 
 ### Transforms
 
-- [babelify](https://github.com/babel/babelify) - browserify transform for babel
-- [aliasify](https://github.com/benbria/aliasify) - remap require calls at build time
-- [brfs](https://github.com/substack/brfs) - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform
+- [babelify](https://github.com/babel/babelify) - Browserify transform for babel.
+- [aliasify](https://github.com/benbria/aliasify) - Remap require calls at build time.
+- [brfs](https://github.com/substack/brfs) - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform.
 
 ### Node in the Browser
 
-- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - a port of node's `crypto` module to the browser
-- [stream-browserify](https://github.com/substack/stream-browserify) - the `stream` module from node core, for browsers!
-- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser
+- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - A port of node's `crypto` module to the browser.
+- [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers!
+- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser.
 
 ## Production Tools
 
