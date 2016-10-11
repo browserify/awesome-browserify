@@ -86,6 +86,7 @@ This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-b
 - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - A port of node's `crypto` module to the browser.
 - [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers!
 - [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser.
+- [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
 ## Production Tools
 
