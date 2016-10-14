@@ -37,13 +37,15 @@ You can use a node-style `require()` to organize your browser code and load modu
 ## Tutorials
 
 - [Hello World with Browserify](http://browserify.org/#middle-section)
-- [Introduction to Browserify](http://superbigtree.tumblr.com/post/54873453939/introduction-to-browserify)
-- [Using npm on the client side](http://dontkry.com/posts/code/using-npm-on-the-client-side.html)
+- [Browserify Adventure](https://github.com/workshopper/browserify-adventure)
+- [A Gentle Browserify Walkthrough](https://ponyfoo.com/articles/a-gentle-browserify-walkthrough)
 
 This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-browserify/edit/master/readme.md).
 
 ## Articles
 
+- [Introduction to Browserify](http://superbigtree.tumblr.com/post/54873453939/introduction-to-browserify)
+- [Using npm on the client side](http://dontkry.com/posts/code/using-npm-on-the-client-side.html)
 - [How Browserify Works](http://benclinkinbeard.com/posts/how-browserify-works/)
 
 This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-browserify/edit/master/readme.md).
