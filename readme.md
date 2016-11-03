@@ -6,7 +6,7 @@
 
 Work in progress! Please help improve this list by [contributing](contributing.md)!
 
-### Contents
+## Contents
 
 - [About](#about)
 - [Official Resources](#official-resources)
@@ -58,7 +58,7 @@ This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-b
 
 ### Servers
 
-- [budo](https://github.com/mattdesl/budo) - A dev server for rapid prototyping.
+- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping.
 - [beefy](https://github.com/chrisdickinson/beefy) - Local development server that aims to make using browserify fast and fun.
 - [wzrd](https://github.com/maxogden/wzrd) - Super minimal browserify development server.
 
@@ -69,13 +69,13 @@ This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-b
 ### Watchers
 
 - [watchify](https://github.com/substack/watchify) - Watch mode for browserify builds.
-- [persistify](https://github.com/royriojas/persistify) - A wrapper around `browserify` to make incremental builds.
+- [persistify](https://github.com/royriojas/persistify) - Wrapper around `browserify` to make incremental builds.
 
 ### CSS bundlers
 
 - [sheetify](https://github.com/stackcss/sheetify) - Modular CSS bundler for browserify.
 - [parcelify](https://github.com/rotundasoftware/parcelify) - Add css to your npm modules consumed with browserify.
-- [css-modulesify](https://github.com/css-modules/css-modulesify) - A browserify plugin to load CSS Modules.
+- [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules.
 
 ### Transforms
 
@@ -85,7 +85,7 @@ This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-b
 
 ### Node in the Browser
 
-- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - A port of node's `crypto` module to the browser.
+- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser.
 - [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers!
 - [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser.
 - [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
