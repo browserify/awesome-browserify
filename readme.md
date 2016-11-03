@@ -11,6 +11,7 @@ Work in progress! Please help improve this list by [contributing](contributing.m
 - [About](#about)
 - [Official Resources](#official-resources)
 - [Tutorials](#tutorials)
+- [Articles](#articles)
 - [Demos](#demos)
 - [Development Tools](#development-tools)
   - [Servers](#servers)
@@ -39,6 +40,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 - [Hello World with Browserify](http://browserify.org/#middle-section)
 - [Browserify Adventure](https://github.com/workshopper/browserify-adventure)
 - [A Gentle Browserify Walkthrough](https://ponyfoo.com/articles/a-gentle-browserify-walkthrough)
+- [Browserify guide](http://zhaoda.net/2015/10/16/browserify-guide/) (Chinese)
 
 This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-browserify/edit/master/readme.md).
 
@@ -47,6 +49,10 @@ This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-b
 - [Introduction to Browserify](http://superbigtree.tumblr.com/post/54873453939/introduction-to-browserify)
 - [Using npm on the client side](http://dontkry.com/posts/code/using-npm-on-the-client-side.html)
 - [How Browserify Works](http://benclinkinbeard.com/posts/how-browserify-works/)
+- [Gulp + Browserify: The Everything Post](https://www.viget.com/articles/gulp-browserify-starter-faq)
+- [Browserify vs Component](http://www.forbeslindesay.co.uk/post/44144487088/browserify-vs-component)
+- [browserify for webpack users](https://gist.github.com/substack/68f8d502be42d5cd4942)
+- [Browserify vs. Webpack](https://mattdesl.svbtle.com/browserify-vs-webpack)
 
 This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-browserify/edit/master/readme.md).
 
