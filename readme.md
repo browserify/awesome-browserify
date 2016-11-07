@@ -39,7 +39,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Community Resources
 
-- [IRC](irc.freenode.net/#browserify)
+- [IRC](http://webchat.freenode.net/?channels=browserify)
 - [Twitter](http://twitter.com/browserify)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/browserify)
 
