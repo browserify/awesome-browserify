@@ -4,22 +4,25 @@
 
 > :crystal_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) resources, libraries, and tools.
 
-Work in progress! Please help improve this list by [contributing](contributing.md)!
+Please help improve this list by [contributing](contributing.md)!
 
-### Contents
+## Contents
 
 - [About](#about)
 - [Official Resources](#official-resources)
+- [Community Resources](#community-resources)
 - [Tutorials](#tutorials)
+- [Articles](#articles)
 - [Demos](#demos)
-- [Development Tools](#development-tools)
-  - [Servers](#servers)
+- [Videos](#videos)
+- [Tools](#tools)
+  - [Development Servers](#development-servers)
   - [Plugins](#plugins)
   - [Watchers](#watchers)
   - [CSS Bundlers](#css-bundlers)
   - [Transforms](#transforms)
   - [Node in the Browser](#node-in-the-browser)
-- [Production Tools](#production-tools)
+  - [Production Tools](#production-tools)
 
 ## About
 
@@ -34,31 +37,46 @@ You can use a node-style `require()` to organize your browser code and load modu
 - [Repo](https://github.com/substack/node-browserify)
 - [Website](http://browserify.org/)
 
+## Community Resources
+
+- [IRC](irc.freenode.net/#browserify)
+- [Twitter](http://twitter.com/browserify)
+- [StackOverflow](http://stackoverflow.com/questions/tagged/browserify)
+
 ## Tutorials
 
 - [Hello World with Browserify](http://browserify.org/#middle-section)
 - [Browserify Adventure](https://github.com/workshopper/browserify-adventure)
 - [A Gentle Browserify Walkthrough](https://ponyfoo.com/articles/a-gentle-browserify-walkthrough)
-
-This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-browserify/edit/master/readme.md).
+- [Browserify guide](http://zhaoda.net/2015/10/16/browserify-guide/) (Chinese)
 
 ## Articles
 
 - [Introduction to Browserify](http://superbigtree.tumblr.com/post/54873453939/introduction-to-browserify)
 - [Using npm on the client side](http://dontkry.com/posts/code/using-npm-on-the-client-side.html)
 - [How Browserify Works](http://benclinkinbeard.com/posts/how-browserify-works/)
-
-This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-browserify/edit/master/readme.md).
+- [Gulp + Browserify: The Everything Post](https://www.viget.com/articles/gulp-browserify-starter-faq)
+- [Browserify vs Component](http://www.forbeslindesay.co.uk/post/44144487088/browserify-vs-component)
+- [Browserify for Webpack users](https://gist.github.com/substack/68f8d502be42d5cd4942)
+- [Browserify vs. Webpack](https://mattdesl.svbtle.com/browserify-vs-webpack)
 
 ## Demos
 
-This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-browserify/edit/master/readme.md).
+- [Canvas Splitter](http://requirebin.com/?gist=maxogden/9576799) by [hughsk](http://github.com/hughsk)
+- [Infinite 2D Cave Generator](http://requirebin.com/?gist=maxogden/9557700) by [hughsk](http://github.com/hughsk)
+- [2D Velocity Control](http://requirebin.com/?gist=maxogden/9557776) by [sethvincent](http://github.com/sethvincent)
 
-## Development Tools
+## Videos
 
-### Servers
+- [James Halliday (substack) - LXJS 2013 - Modularidade para todos](https://www.youtube.com/watch?v=DCQNm6yiZh0)
+- [Getting Started with Browserify](https://www.youtube.com/watch?v=CTAa8IcQh1U) by [shama](https://github.com/shama/)
+- [Transform your Bundles with Browserify](https://www.youtube.com/watch?v=Uk2bgp8OLT8) by [shama](https://github.com/shama/)
 
-- [budo](https://github.com/mattdesl/budo) - A dev server for rapid prototyping.
+## Tools
+
+### Development Servers
+
+- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping.
 - [beefy](https://github.com/chrisdickinson/beefy) - Local development server that aims to make using browserify fast and fun.
 - [wzrd](https://github.com/maxogden/wzrd) - Super minimal browserify development server.
 
@@ -69,13 +87,13 @@ This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-b
 ### Watchers
 
 - [watchify](https://github.com/substack/watchify) - Watch mode for browserify builds.
-- [persistify](https://github.com/royriojas/persistify) - A wrapper around `browserify` to make incremental builds.
+- [persistify](https://github.com/royriojas/persistify) - Wrapper around `browserify` to make incremental builds.
 
 ### CSS bundlers
 
 - [sheetify](https://github.com/stackcss/sheetify) - Modular CSS bundler for browserify.
 - [parcelify](https://github.com/rotundasoftware/parcelify) - Add css to your npm modules consumed with browserify.
-- [css-modulesify](https://github.com/css-modules/css-modulesify) - A browserify plugin to load CSS Modules.
+- [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules.
 
 ### Transforms
 
@@ -85,12 +103,12 @@ This is a stub! Please [help fill it out](https://github.com/ungoldman/awesome-b
 
 ### Node in the Browser
 
-- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - A port of node's `crypto` module to the browser.
+- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser.
 - [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers!
 - [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser.
 - [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
-## Production Tools
+### Production Tools
 
 - [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
 - [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams.
