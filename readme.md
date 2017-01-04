@@ -52,7 +52,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Articles
 
-- [Introduction to Browserify](http://superbigtree.tumblr.com/post/54873453939/introduction-to-browserify)
+- [Introduction to Browserify](https://writingjavascript.org/posts/introduction-to-browserify)
 - [Using npm on the client side](http://dontkry.com/posts/code/using-npm-on-the-client-side.html)
 - [How Browserify Works](http://benclinkinbeard.com/posts/how-browserify-works/)
 - [Gulp + Browserify: The Everything Post](https://www.viget.com/articles/gulp-browserify-starter-faq)
